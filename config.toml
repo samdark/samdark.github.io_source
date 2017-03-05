@@ -1,0 +1,35 @@
+languageCode = "en-US"
+title = "Alexander Makarov"
+author = "Alexander Makarov"
+baseURL = "https://samdark.github.io/"
+theme = "cocoa"
+canonifyurls = true
+pygmentsuseclasses  = true
+disqusshortname     = "samdark" # Comment out to disable Disqus.
+pluralizelisttitles = false
+# googleAnalytics     = "UA-123-45"
+
+[permalinks]
+fixed = ":title/"
+blog  = "blog/:slug/"
+
+[params]
+author                 = "Alexander Makarov / @samdark"
+cachebuster            = true                          # add the current unix timestamp in query string for cache busting css assets
+#dateform               = ""
+#dateformfull           = ""
+description            = "Engineer having fun"
+email                  = "sam@rmcreative.ru"
+# extracssfiles          = [ "/css/override.css" ]       # In your `static` directory, add/remove files as necessary.
+faviconfile            = "img/favicon.ico"
+github                 = "//github.com/samdark"
+highlightjs            = true
+lang                   = "en"
+linkedin               = "//linkedin.com/in/makarov"
+noshowreadtime         = false                         # if true, don't show "<x> minutes read" in posts
+selfintro              = "Engineer having fun"                            # appears in the site header when set to a non-empty string
+twitter                = "//twitter.com/sam_dark"
+# highlightjslanguages = ["go"]                        # additional languages not included in the "common" set
+
+avatar                 = "img/avatar.jpg" # path to image in static dir e.g img/avatar.png (do not use in the same time as gravatar)
+#gravatar             = "sam@rmcreative.ru"                # do not use in the same time as avatar

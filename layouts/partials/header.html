@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+{{ partial "head.html" . }}
+
+<body lang="{{ .Site.Params.lang }}">
+
+<section class="header">
+    <div class="container">
+        <div class="content">
+            {{ if .Site.Params.gravatar }}
+              <a href="/"><img class="avatar" src="https://gravatar.com/avatar/{{ .Site.Params.gravatar }}?s=50" /></a>
+            {{ else if .Site.Params.avatar }}
+              <a href="/"><img class="avatar" src="/{{ .Site.Params.avatar }}" /></a>
+            {{ end }}
+            <a href="/"><div class="name">{{ .Site.Params.author }}</div></a>
+            {{ if .Site.Params.selfintro }}
+              <h3 class="self-intro">{{ .Site.Params.selfintro }}</h3>
+            {{ end }}
+            <nav>
+                <ul>
+                    <li class="nav-blog"><a href="/blog/">Blog</a></li>
+                    <li class="nav-about"><a href="/about/">About</a></li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+</section>
+
+<section class="icons">
+    <div class="container">
+        <div class="content">
+
+        {{ if .Site.Params.github }}
+            <a href="{{ .Site.Params.github }}" target="_blank" rel="noopener"><img class="icon" src="/img/github.svg" alt="github" /></a>
+        {{ end }}
+
+        {{ if .Site.Params.twitter }}
+            <a href="{{ .Site.Params.twitter }}" target="_blank" rel="noopener"><img class="icon" src="/img/twitter.svg" alt="twitter" /></a>
+        {{ end }}
+
+        {{ if .Site.Params.linkedin }}
+            <a href="{{ .Site.Params.linkedin }}" target="_blank" rel="noopener"><img class="icon" src="/img/linkedin.svg" alt="linkedin" /></a>
+        {{ end }}
+
+        {{ if .Site.Params.facebook }}
+            <a href="{{ .Site.Params.facebook }}" target="_blank" rel="noopener"><img class="icon" src="/img/facebook.svg" alt="facebook" /></a>
+        {{ end }}
+
+        {{ if .Site.Params.soundcloud }}
+            <a href="{{ .Site.Params.soundcloud }}" target="_blank" rel="noopener"><img class="icon" src="/img/soundcloud.svg" alt="soundcloud" /></a>
+        {{ end }}
+
+        {{ if .Site.Params.email }}
+            <a href="mailto:{{ .Site.Params.email }}"><img class="icon" src="/img/email.svg" alt="email" /></a>
+        {{ end }}
+
+        {{ if .Site.RSSLink }}
+            <a href="{{ .Site.RSSLink }}"><img class="icon" src="/img/rss.svg" alt="rss" /></a>
+        {{ end }}
+        </div>
+    </div>
+</section>
