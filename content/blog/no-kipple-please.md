@@ -14,7 +14,7 @@ title = "No Kipple Please"
 
 *Do Androids Dream of Electric Sheep? by Philip K. Dick*
 
-IT projects are much like the aparments mentioned in Philip K. Dick novel. They tend
+IT projects are much like the apartments mentioned in Philip K. Dick novel. They tend
 to have kipple and, as with apartments, it grows every day.
 
 I've reviewed lots of projects and one of mistakes I often see is about kipple. It looks
@@ -37,8 +37,8 @@ That's why kipple is both useless and bad:
 - It is unpleasant to work with such kippled project. Feels like code is of a bad quality
   even if architecture and code itself is OK.
 - Compile time may be increased.
-- Any version control systems remembers everything you'll delete. If there's a need
-  you can always get it from there. If you fail to remember where was it, tag the commit.
+- Any version control system remembers everything you'll delete. If there's a need
+  you can always get it from there. If you fail to remember where it was, tag the commit.
   
 I know that you may say that it's not important and there's no time for it but I highly
 recommend trying it for a few months. You'll see difference in both the project and
