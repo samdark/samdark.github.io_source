@@ -4,19 +4,19 @@ title = "Yii 2.0 Logging and PSR-3"
 draft = false
 +++
 
-It is 2017 and major parts of PHP community are all about [PSRs: PHP standard recommendations](http://www.php-fig.org/psr/)
-which aim is to make parts of frameworks reusable. There is PSR-3 about logging and quite a number of logging libraries
-following it among which [Monolog](https://github.com/Seldaek/monolog) is the most widely used one. 
+It is 2017 and major parts of PHP community are all talking about [PSRs: PHP standard recommendations](http://www.php-fig.org/psr/)
+that aim is to make parts of frameworks reusable. The recommendation PSR-3 is about logging. Many logging libraries are
+following this recommendation, among which [Monolog](https://github.com/Seldaek/monolog) is the most widely used one. 
 
-There are three questions often asked about Yii 2.0 in this regard:
+There are three questions commonly asked about Yii 2.0 with regards to PSR-3:
 
-1. Why Yii 2.0 isn't PSR-3 compatible?
+1. Why isn't Yii 2.0 PSR-3 compatible?
 2. How do I use PSR-3 compatible logger in Yii 2.0?
 3. Is there a plan to extract a standalone PSR-3 compatible logging library from Yii 2.0?
 
 Let's answer these.
 
-## Why Yii 2.0 isn't PSR-3 compatible?
+## Why isn't Yii 2.0 PSR-3 compatible?
 
 [Yii 2.0 logger](http://www.yiiframework.com/doc-2.0/guide-runtime-logging.html) is one of the well done parts of
 the framework. It's stable, easy to extend, performant and really powerful when it comes to features. It was
