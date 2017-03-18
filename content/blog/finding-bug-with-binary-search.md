@@ -25,6 +25,8 @@ After that, git informs you with something like `Bisecting: 10 revisions left to
 there are about 10 commits between good and bad revisions. Also it is checking out a commit which is in
 the middle of these ten.
 
+<img src="/img/posts/binary_search.png" width="50%" />
+
 Now, it's your job to confirm if the bug is still present or otherwise. If yes, you issue
 `git bisect bad`. If not &mdash; `git bisect good`.
 

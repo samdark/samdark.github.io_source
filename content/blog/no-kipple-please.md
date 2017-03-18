@@ -17,6 +17,8 @@ title = "No Kipple Please"
 IT projects are much like the apartments mentioned in Philip K. Dick novel. They tend
 to have kipple and, as with apartments, it grows every day.
 
+<img src="/img/posts/kipple.png" width="50%" />
+
 I've reviewed many projects and one mistake that I often see is about kipple. It looks
 minor compared to bugs or architectural issues but at the same time it affects both
 project and development team significantly.
