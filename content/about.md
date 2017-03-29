@@ -23,6 +23,8 @@ I am available for hire to do:
 
 - Code Reviews (basic security, Yii usage, cleanness, possible bugs etc.).
 - Consulting (both Yii-related and not).
+- Bootstrapping commuities.
+- Checking project is good for OpenSource before publishing. 
 - Training and instruction.
 - Public speaking.
 - Technical writing.
