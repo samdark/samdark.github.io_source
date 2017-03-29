@@ -1,0 +1,19 @@
+#patrons li {
+    list-style: none;
+    margin-bottom: 1rem;
+}
+
+#patrons img {
+    vertical-align: middle;
+    border-radius: 50px;
+    display: inline-block;
+    margin: 0 0.8rem 0 0;
+}
+
+#patrons .name {
+    font-weight: bold;
+}
+
+#patrons .info:before {
+    content: " / ";
+}
