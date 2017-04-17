@@ -143,3 +143,4 @@ better to stick with objects composition.
 - [Using Traits in PHP 5.4](https://www.sitepoint.com/using-traits-in-php-5-4/)
 - [PHP Traits: Good or Bad?](https://www.sitepoint.com/php-traits-good-or-bad/)
 - [How I Use Traits](http://rosstuck.com/how-i-use-traits/)
+- [Comments for this very post at reddit](https://www.reddit.com/r/PHP/comments/65uyv3/are_traits_evil/)
