@@ -33,6 +33,13 @@ My OpenSource time is [backed financially by Yii and PHP communities](https://ww
         </span>
     </li>
     <li>
+        <img src="/img/patrons/basil_suter.jpg" width="50" height="50">
+        <a class="name" href="https://github.com/nadar">Basil Suter</a>
+        <span class="info">
+            <a href="https://luya.io">LUYA</a>
+        </span>        
+    </li>
+    <li>
         <img src="/img/patrons/timur_ruziev.jpg" width="50" height="50">
         <a class="name" href="https://github.com/resurtm">Timur Ruziev</a>
     </li>
