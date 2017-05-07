@@ -2,6 +2,7 @@
 date = "2017-03-09T12:39:18+03:00"
 title = "Yii 2.0 Logging and PSR-3"
 draft = false
+tags = ["yii", "log", "psr", "psr-3"]
 +++
 
 It is 2017 and major parts of PHP community are all talking about [PSRs: PHP standard recommendations](http://www.php-fig.org/psr/)

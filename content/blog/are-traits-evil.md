@@ -2,6 +2,7 @@
 date = "2017-04-17T13:49:29+03:00"
 title = "Are traits evil?"
 draft = false
+tags = ["php", "trait", "yii"]
 +++
 
 When I have started [a Patreon campaign](https://www.patreon.com/samdark), I have promised to answer questions.

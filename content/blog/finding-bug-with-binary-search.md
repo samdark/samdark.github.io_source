@@ -2,6 +2,7 @@
 date = "2017-03-04T21:52:28+03:00"
 draft = false
 title = "Finding Bug with Binary Search"
+tags = ["git", "binary search", "bisect"]
 +++
 
 Once there's a way to reproduce the issue we need to find code which caused it. Sometimes we are totally stuck

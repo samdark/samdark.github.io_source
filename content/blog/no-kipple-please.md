@@ -2,6 +2,7 @@
 date = "2017-03-05T21:52:28+03:00"
 draft = false
 title = "No Kipple Please"
+tags = ["code"]
 +++
 
 > &ldquo;Kipple is useless objects, like junk mail or match folders after you use the last match or gum wrappers or yesterday's

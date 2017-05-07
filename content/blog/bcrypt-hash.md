@@ -1,6 +1,7 @@
 +++
 date = "2017-03-23T11:41:26+03:00"
 title = "bcrypt hash"
+tags = ["bcrypt", "password", "php"]
 +++
 
 bcrypt is a good way to deal with password authentication. In PHP it is available via

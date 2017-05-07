@@ -2,6 +2,7 @@
 date = "2017-04-18T12:58:47+03:00"
 title = "Yii Q&A 1"
 draft = false
+tags = ["yii", "qa"]
 +++
 
 Some questions I'm answering are asked often so I decided to publish answers here. Feel free to ask more in comments.

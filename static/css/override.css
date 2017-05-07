@@ -17,3 +17,11 @@
 #patrons .info:before {
     content: " / ";
 }
+
+#tags li {
+    list-style: none;
+    display: inline-block;
+    background: #eee;
+    padding: .2rem .5rem;
+    border-radius: .5rem;
+}
