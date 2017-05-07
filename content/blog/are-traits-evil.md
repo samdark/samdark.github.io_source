@@ -127,7 +127,7 @@ the trait or declare `static` variables inside a method. Both could lead to issu
 Private properties are copied to the class using a trait. Possible issues are naming conflicts and accidental
 modification of the property. Because in runtime properties are copied into class, class has access to private ones.
 
-Using `static` means all your classes using a trait would share the same state which is not always desired.  
+Using `static` means all your objects using a trait would share the same state which is not always desired.  
 
 ## Are traits evil?
 
