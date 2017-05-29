@@ -27,7 +27,7 @@ requires MacOS or Linux to run but it is not a problem since there are live CDs 
 [Knoppix](http://www.knopper.net/knoppix/index-en.html) which has all the tools bundled.
 
 So we are opening console and trying to find out which drives we have. In order to do it use
-`fdisk -l` on Linux and `/Applications/Utilities/diskutil` list on MacOS. On MacOS prefer disk names which start with
+`fdisk -l` on Linux and `diskutil list` on MacOS. On MacOS prefer disk names which start with
 `/dev/r` which are raw disks with buffer-less communication.
 
 Now, as you know drive names:
