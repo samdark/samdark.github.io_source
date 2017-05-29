@@ -53,3 +53,5 @@ lose data because of messing with original drive.
 That is it. Using these two tools I was able to recover all the precious photos from corrupted SD card.
 
 ![Someone parked right at the pier. Aker Brygge, Oslo](/img/posts/photo_mustang.jpg)
+
+- Article was [reposted at PetaPixel](https://petapixel.com/2017/05/18/safely-retrieve-files-off-failing-hdd-ssd-sd-cards-using-free-tools/).
