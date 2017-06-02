@@ -2,6 +2,7 @@
 date = "2017-06-02T03:03:04+03:00"
 title = "Moving constants into dictionaries"
 draft=false
+tags=["php", "refactoring", "constants"]
 +++
 
 Extracting constants makes code much cleaner compared to using values directly. It eliminates typos and makes it possible
