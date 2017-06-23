@@ -40,10 +40,6 @@ My OpenSource time is [backed financially by Yii and PHP communities](https://ww
         </span>        
     </li>
     <li>
-        <img src="/img/patrons/timur_ruziev.jpg" width="50" height="50">
-        <a class="name" href="https://github.com/resurtm">Timur Ruziev</a>
-    </li>
-    <li>
         <img src="/img/patrons/dragan_zivkovic.jpg" width="50" height="50">
         <a class="name" href="https://github.com/dzivkovic">Dragan Zivkovic</a>
     </li>
@@ -83,10 +79,6 @@ My OpenSource time is [backed financially by Yii and PHP communities](https://ww
         <a class="name" href="https://github.com/dataskills">Judd Bundy</a>
     </li>
     <li>
-        <img src="/img/patrons/alexander_bondarev.jpg" width="50" height="50">
-        <span class="name">Alexander Bondarev</span>
-    </li>
-    <li>
         <img src="/img/patrons/pavel_tetyaev.jpg" width="50" height="50">
         <a class="name" href="https://github.com/pahanini">Pavel Tetyaev</a>
     </li>
@@ -117,10 +109,6 @@ My OpenSource time is [backed financially by Yii and PHP communities](https://ww
     <li>
         <img src="/img/patrons/no_photo.png" width="50" height="50">
         <span class="name">alexvil</span>
-    </li>
-    <li>
-        <img src="/img/patrons/chris_smith.jpg" width="50" height="50">
-        <a class="name" href="https://github.com/cgsmith">Chris Smith</a>
     </li>
     <li>
         <img src="/img/patrons/anton_shelyganov.jpg" width="50" height="50">
@@ -169,6 +157,27 @@ My OpenSource time is [backed financially by Yii and PHP communities](https://ww
     <li>
         <img src="/img/patrons/pawel_brzozowsky.jpg" width="50" height="50">
         <a class="name" href="https://github.com/bizley">Paweł Brzozowski</a>
+    </li>    
+    <li>
+        <img src="/img/patrons/anatoly_rugalev.jpg" width="50" height="50">
+        <a class="name" href="https://github.com/AnatolyRugalev">Anatoly Rugalev</a>
+    </li>
+    <li>
+        <img src="/img/patrons/dmitry_sonko.jpg" width="50" height="50">
+        <a class="name" href="https://github.com/SonkoDmitry">Dmitry Sonko</a>
+    </li>
+</ul>
+
+## Past backers
+
+<ul id="patrons">
+    <li>
+        <img src="/img/patrons/chris_smith.jpg" width="50" height="50">
+        <a class="name" href="https://github.com/cgsmith">Chris Smith</a>
+    </li>
+    <li>
+        <img src="/img/patrons/alexander_bondarev.jpg" width="50" height="50">
+        <span class="name">Alexander Bondarev</span>
     </li>
 </ul>
 
