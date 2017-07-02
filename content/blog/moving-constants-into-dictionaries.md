@@ -168,3 +168,5 @@ $guide->theme = GuideTheme::COFFEE;
 // instead of
 $guide->theme = Guide::THEME_COFFEE;
 ```
+
+- [Comments at Reddit](https://www.reddit.com/r/PHP/comments/6eqwj4/moving_constants_into_dictionaries/)
