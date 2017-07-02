@@ -166,6 +166,17 @@ My OpenSource time is [backed financially by Yii and PHP communities](https://ww
         <img src="/img/patrons/dmitry_sonko.jpg" width="50" height="50">
         <a class="name" href="https://github.com/SonkoDmitry">Dmitry Sonko</a>
     </li>
+    <li>
+        <img src="/img/patrons/ivan_braun.jpg" width="50" height="50">
+        <span class="name" href="">Ivan Braun</span>
+        <span class="info">
+            <a href="https://icons8.com/">Icons8</a>
+        </span>
+    </li>
+    <li>
+        <img src="/img/patrons/florian_kubis.jpg" width="50" height="50">
+        <a class="name" href="https://github.com/kubisflo">Florian Kubis</a>
+    </li>    
 </ul>
 
 ## Past backers
@@ -181,7 +192,7 @@ My OpenSource time is [backed financially by Yii and PHP communities](https://ww
     </li>
 </ul>
 
-Big thank you to the ones backed me, listed and unlisted. I would really appreciate if you will
-support me as well.
-
+Big thank you to the ones backed me, listed and unlisted.
 If any info should be added, corrected or removed, email me at <a href="mailto:sam@rmcreative.ru">sam@rmcreative.ru</a>.
+
+I would really appreciate if you will support me as well.
