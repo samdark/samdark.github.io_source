@@ -13,6 +13,12 @@ or being connected to the Internet. It works even on legendary Nokia 3310.
 
 Everything is great, right? Well, no. Depending on the usage it could be a bad idea.
 
+## TL;DR
+
+- Do not ever use SMS to restore password or authenticate.
+- SMS for two factor authentication isn't too bad but more
+  secure solutions should be used where possible.
+
 ## What is wrong with SMS?
 
 The problem is that SMS is insecure channel. 2016 clearly proved that. Details are summed well in Fortune's
@@ -44,8 +50,9 @@ is sent via another channel. The chance that multiple channels are compromised i
 
 ![](/img/posts/2fa.png)
 
-Having SMS as a second factor channel is not particularly bad and definitely is better than not using second
-factor for authentication at all.
+Having SMS as a second factor channel is not particularly bad and definitely is better than
+not using second factor for authentication at all but since there are better solutions,
+having SMS in place prevents these from being implemented.
 
 ### Password reset
 
@@ -61,7 +68,4 @@ Traditionally a single channel for resetting a password was an email but in rece
 projects started restoring passwords via SMS only. Knowing the nature of SMS it should be
 considered a bad practice.
 
-## TL;DR
-
-- Do not use SMS to restore password or authenticate.
-- It is OK to use SMS as a second authentication factor. 
+- [Comments at Reddit](https://www.reddit.com/r/PHP/comments/6kvqkv/sms_security/)
