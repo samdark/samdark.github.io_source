@@ -176,7 +176,14 @@ My OpenSource time is [backed financially by Yii and PHP communities](https://ww
     <li>
         <img src="/img/patrons/florian_kubis.jpg" width="50" height="50">
         <a class="name" href="https://github.com/kubisflo">Florian Kubis</a>
-    </li>    
+        <span class="info">
+            <a href="https://www.refugium22.de/">refugium22</a>
+        </span>
+    </li>
+    <li>
+        <img src="/img/patrons/no_photo.png" width="50" height="50">
+        <span class="name">Radu Herinean</span>
+    </li>
 </ul>
 
 ## Past backers
