@@ -168,7 +168,7 @@ My OpenSource time is [backed financially by Yii and PHP communities](https://ww
     </li>
     <li>
         <img src="/img/patrons/ivan_braun.jpg" width="50" height="50">
-        <span class="name" href="">Ivan Braun</span>
+        <span class="name">Ivan Braun</span>
         <span class="info">
             <a href="https://icons8.com/">Icons8</a>
         </span>
@@ -184,6 +184,14 @@ My OpenSource time is [backed financially by Yii and PHP communities](https://ww
         <img src="/img/patrons/no_photo.png" width="50" height="50">
         <span class="name">Radu Herinean</span>
     </li>
+    <li>
+        <img src="/img/patrons/kilderson_sena.jpg" width="50" height="50">
+        <a class="name" href="https://twitter.com/derson_sena">Kilderson Sena</a>
+    </li>
+    <li>
+        <img src="/img/patrons/no_photo.png" width="50" height="50">
+        <span class="name">Paweł Derehajło</span>
+    </li>    
 </ul>
 
 ## Past backers
