@@ -115,13 +115,6 @@ My OpenSource time is [backed financially by Yii and PHP communities](https://ww
         <a class="name" href="https://github.com/antonshell">Anton Shelyganov</a>
     </li>
     <li>
-        <img src="/img/patrons/petr_myazin.jpg" width="50" height="50">
-        <a class="name" href="https://github.com/pqr">Petr Myazin</a>
-        <span class="info">
-            <a href="https://5minphp.ru/">Пятиминутка PHP</a>
-        </span>
-    </li>
-    <li>
         <img src="/img/patrons/scott_arciszewski.jpg" width="50" height="50">
         <a class="name" href="https://github.com/sarciszewski">Scott Arciszewski</a>
         <span class="info">
@@ -204,6 +197,13 @@ My OpenSource time is [backed financially by Yii and PHP communities](https://ww
     <li>
         <img src="/img/patrons/alexander_bondarev.jpg" width="50" height="50">
         <span class="name">Alexander Bondarev</span>
+    </li>
+    <li>
+        <img src="/img/patrons/petr_myazin.jpg" width="50" height="50">
+        <a class="name" href="https://github.com/pqr">Petr Myazin</a>
+        <span class="info">
+            <a href="https://5minphp.ru/">Пятиминутка PHP</a>
+        </span>
     </li>
 </ul>
 

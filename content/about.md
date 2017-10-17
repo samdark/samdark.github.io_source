@@ -19,17 +19,11 @@ Would really appreciate if you will support me.
 
 ## Available for Hire
 
-I am available for hire to do:
+Currently I am working fulltime for SkyEng but may allocate some time for:
 
 - Code Reviews (basic security, Yii usage, cleanness, possible bugs etc.).
 - Consulting (both Yii-related and not).
-- Bootstrapping commuities.
 - Checking project is good for OpenSource before publishing. 
-- Training and instruction.
-- Public speaking.
-- Technical writing.
-- System design.
-- Code.
 
 Availablity is subject to change. Rate depends on type of the project and specifics. Average is
 about $100/hr. I do give discounts and even may consider doing it for free for non-profits and OpenSource.
