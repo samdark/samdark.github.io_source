@@ -1,5 +1,5 @@
 +++
-title="Repairing Silhouette Cameo Touchscreen"
+title="Repairing Silhouette CAMEO Touchscreen"
 date=2017-12-12T21:53:44+03:00
 draft=false
 tags = ["hardware", "silhouette", "cameo", "resistive touch screen"]
