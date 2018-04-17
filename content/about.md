@@ -4,12 +4,12 @@ draft = false
 title = "About"
 +++
 
-I'm Alex, one of the core maintainers of [Yii PHP framework](http://www.yiiframework.com/)
+I'm Alex, one of the core maintainers of [Yii PHP framework](https://www.yiiframework.com/)
 for more than 7 years, its representative in [PHP-FIG](http://www.php-fig.org/),
-[active conference speaker](http://slides.rmcreative.ru/) and [participant of various other
+[active conference speaker](https://slides.rmcreative.ru/) and [participant of various other
 OpenSource projects](https://github.com/samdark/).
 
-I am [blogging in Russian since 2005](http://rmcreative.ru/) and recently decided
+I am [blogging in Russian since 2005](https://rmcreative.ru/) and recently decided
 that it is time to write in English as well.
 
 ## Seeking for patronage
@@ -23,7 +23,7 @@ Currently I am working fulltime for SkyEng but may allocate some time for:
 
 - Code Reviews (basic security, Yii usage, cleanness, possible bugs etc.).
 - Consulting (both Yii-related and not).
-- Checking project is good for OpenSource before publishing. 
+- Checking if project is good for OpenSource before publishing. 
 
 Availablity is subject to change. Rate depends on type of the project and specifics. Average is
 about $100/hr. I do give discounts and even may consider doing it for free for non-profits and OpenSource.

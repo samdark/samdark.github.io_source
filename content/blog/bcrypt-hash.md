@@ -9,7 +9,7 @@ bcrypt is a good way to deal with password authentication. In PHP it is availabl
 [password_hash](https://secure.php.net/manual/en/function.password-hash.php) function current PHP versions are providing.
 
 Yii framework project templates are using bcrypt for handling passwords. Framework components
-are [providing polyfills ensuring bcrypt is used correctly](http://www.yiiframework.com/doc-2.0/yii-base-security.html#generatePasswordHash()-detail).
+are [providing polyfills ensuring bcrypt is used correctly](https://www.yiiframework.com/doc-2.0/yii-base-security.html#generatePasswordHash()-detail).
  
 bcrypt produces a compound hash that looks like the following:
 

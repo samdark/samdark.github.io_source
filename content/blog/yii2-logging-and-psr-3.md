@@ -19,7 +19,7 @@ Let's answer these.
 
 ## Why isn't Yii 2.0 PSR-3 compatible?
 
-[Yii 2.0 logger](http://www.yiiframework.com/doc-2.0/guide-runtime-logging.html) is one of the well done parts of
+[Yii 2.0 logger](https://www.yiiframework.com/doc-2.0/guide-runtime-logging.html) is one of the well done parts of
 the framework. It's stable, easy to extend, performant and really powerful when it comes to features. It was
 implemented at early stages of yet secret pre-alpha development of the framework and was not changed much since then.
 The design is very close to what was done in Yii 1.0 so we can think of 2008 as the year when logger design formed.
@@ -35,7 +35,7 @@ Now it's time to re-decide it for 2.1 since there are certain pros in being PSR-
 ## How do I use PSR-3 compatible logger in Yii 2.0?
 
 Yii's logging facility is quite flexible. There's a central dispatcher component which is collecting log messages and
-then flushes them to individual [log targets](http://www.yiiframework.com/doc-2.0/guide-runtime-logging.html#log-targets),
+then flushes them to individual [log targets](https://www.yiiframework.com/doc-2.0/guide-runtime-logging.html#log-targets),
 such as file target or email target that actually do the job.
 
 Yii's log targets are easy to extend but considering the popularity of PSR-3 and especially

@@ -66,7 +66,7 @@ behaviors in 2.0 and will be considered again for 2.1.
 
 ### Behaviors
 
-I have started looking at traits in [August 2010](http://rmcreative.ru/blog/post/traits-v-trunk-php) when they were merged
+I have started looking at traits in [August 2010](https://rmcreative.ru/blog/post/traits-v-trunk-php) when they were merged
 into PHP `trunk` (that is how `master` was called in CVS/SVN). By that time Yii 1.x had behaviors concept which is similar
 to Ruby mixins and is handy for seamlessly adding extra abilities such as `SoftDeleteable` or `Versionable` to
 a class. The main difference is that behavior has its own state and could be attached/detached in runtime while trait
