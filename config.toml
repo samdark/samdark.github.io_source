@@ -1,7 +1,7 @@
 languageCode = "en-US"
 title = "Alexander Makarov"
 author = "Alexander Makarov"
-baseURL = "https://en.rmcreative.ru/"
+baseURL = "http://en.rmcreative.ru/"
 theme = "cocoa"
 canonifyurls = true
 pygmentsuseclasses  = true
