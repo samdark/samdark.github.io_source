@@ -46,7 +46,7 @@ what happens.
 
 ## Why?
 
-The touch screen used in Silhouette products is of resistive film type. When pressing it you're basically shoring two
+The touch screen used in Silhouette products is of resistive film type. When pressing it you're basically shorting two
 layers of the screen:
 
 <img src="/img/posts/repair-silhouette/resistive-touchscreen-technology.jpg" width="100%" />
