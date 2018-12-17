@@ -110,6 +110,6 @@ echo $post->getTitle();
 ## Usage in Yii
 
 It's not currently used in Yii in any way. One may use it to implement his own data mapping
-in a repository in case of purchasing
+in a repository in case of pursuing
 [clean architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
 and [domain driven design](https://en.wikipedia.org/wiki/Domain-driven_design) where encapsulation is uber-important.
