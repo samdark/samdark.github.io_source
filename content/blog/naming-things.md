@@ -111,7 +111,7 @@ function cntBigWrds($data, $length)
 {
     $i = 0;
     foreach ($data as $iter) {
-        if (mb_strlen($iter) >= $length) {
+        if (mb_strlen($iter) > $length) {
             $i++;
         }
     }
