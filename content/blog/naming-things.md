@@ -129,7 +129,7 @@ function countWordsLongerThan(array $words, int $minimumLength)
 {
     $count = 0;
     foreach ($words as $word) {
-        if (mb_strlen($word) >= $minimumLength) {
+        if (mb_strlen($word) > $minimumLength) {
             $count++;
         }
     }
