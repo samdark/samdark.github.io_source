@@ -14,12 +14,7 @@ It is important for the code to be readable and clear about its intent.
 
 Below are some advice based on my experience naming things.
 
-- [Meaning](#meaning)
-- [Consistency](#consistency)
-- [Verbosity](#verbosity)
-- [Readability](#readability)
-
-# Meaning <a id="meaning" href="#meaning">#</a>
+# Meaning
 
 A name, be it a variable, a property, a class, or an interface, should reflect
 the purpose of why it's being introduced and how it's used.
@@ -71,7 +66,7 @@ class Exception {}
 class InvalidArgumentException extends Exception {}
 ```
 
-# Consistency <a id="consistency" href="#consistency">#</a>
+# Consistency
 
 Use a single name for a single concept. Be consistent.
 
@@ -86,7 +81,7 @@ some team members then it should be reviewed, changed and new rule should be set
 For PHP the most common convention is currently PSR-2 and most internal project
 conventions are based on it.
 
-# Verbosity <a id="verbosity" href="#verbosity">#</a>
+# Verbosity
 
 ## Avoid reusing names
 
@@ -163,7 +158,7 @@ Avoid acronyms and abbreviations except commonly known ones such as HTML. [Elon 
 
 I agree with him.
 
-# Readability <a id="readability" href="#readability">#</a>
+# Readability
 
 Code should be able to be read as easily as prose. Choose words that you would
 choose writing an article or a book. For example, a property named
