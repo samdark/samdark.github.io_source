@@ -204,3 +204,4 @@ Some useful tools:
 - [Microsoft Guidelines for Names](https://docs.microsoft.com/en-us/previous-versions/dotnet/netframework-4.0/ms229002(v%3dvs.100))
 - [TwoHardThings by Martin Fowler](https://martinfowler.com/bliki/TwoHardThings.html)
 - [Domain Driven Design Quickly by InfoQ](https://www.infoq.com/minibooks/domain-driven-design-quickly)
+- [Reddit Comments](https://www.reddit.com/r/programming/comments/a6sude/naming_things/)

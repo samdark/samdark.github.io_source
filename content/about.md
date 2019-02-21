@@ -19,15 +19,15 @@ Would really appreciate if you will support me.
 
 ## Available for Hire
 
-Currently I am working fulltime for SkyEng but may allocate some time for:
+My primary focus is Yii framework but I can allocate time for:
 
 - Code Reviews (basic security, Yii usage, cleanness, possible bugs etc.).
 - Consulting (both Yii-related and not).
-- Checking if project is good for OpenSource before publishing. 
+- Checking if project is good for OpenSource before publishing.
+- Internal processes improvement.
 
-Availablity is subject to change. Rate depends on type of the project and specifics. Average is
+Availability is subject to change. Rate depends on type of the project and specifics. Average is
 about $100/hr. I do give discounts and even may consider doing it for free for non-profits and OpenSource.
-
 
 If you're interested in my experience, check out [my LinkedIn page](https://www.linkedin.com/in/makarov/).
 
